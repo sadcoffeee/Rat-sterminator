@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - inviswall
+  - goal
+  - boss
+  - greenarrow
+  - yellowarrow
+  - redarrow
+  - enemy
+  - arrow
+  - bosswall
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - arrow
+  - Water
+  - UI
+  - enemyprojectile
+  - player
+  - Invulnerable
+  - enemy
+  - inviswall
+  - killprojectile
+  - enemywall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
